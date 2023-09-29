@@ -29,8 +29,8 @@ var gravityCounter = 0;
 var gravityLevel = 48;
 var gravitySkip = 1;
 
-var dasSensitivity = 6;
-var dasSpeed = 0;
+var dasSensitivity = 10;
+var dasSpeed = 1;
 var softDropSpeed = 0;
 
 var lockCounter = 0;
